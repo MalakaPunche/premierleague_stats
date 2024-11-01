@@ -1,0 +1,28 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Playing Time,Playing Time,Playing Time,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,Expected,Progression,Progression,Progression,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Unnamed: 33_level_0,Team
+Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,xG,npxG,xAG,npxG+xAG,PrgC,PrgP,PrgR,Gls,Ast,G+A,G-PK,G+A-PK,xG,xAG,xG+xAG,npxG,npxG+xAG,Matches,
+Ederson,br BRA,GK,31-076,9,9,810.0,9.0,0.0,1.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.4,0.4,0.0,1.0,0.0,0.0,0.11,0.11,0.0,0.11,0.0,0.04,0.04,0.0,0.04,Matches,Manchester-City
+Erling Haaland,no NOR,FW,24-103,9,9,809.0,9.0,11.0,0.0,11.0,10.0,1.0,1.0,1.0,0.0,8.8,8.0,0.5,8.5,7.0,4.0,38.0,1.22,0.0,1.22,1.11,1.11,0.98,0.05,1.03,0.89,0.94,Matches,Manchester-City
+Joško Gvardiol,hr CRO,DF,22-283,9,8,762.0,8.5,2.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.5,0.5,0.8,1.3,26.0,95.0,20.0,0.24,0.0,0.24,0.24,0.24,0.05,0.1,0.15,0.05,0.15,Matches,Manchester-City
+Rúben Dias,pt POR,DF,27-171,9,8,727.0,8.1,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.6,0.6,0.1,0.7,12.0,57.0,3.0,0.0,0.0,0.0,0.0,0.0,0.07,0.02,0.09,0.07,0.09,Matches,Manchester-City
+Bernardo Silva,pt POR,"MF,FW",30-083,9,8,727.0,8.1,0.0,3.0,3.0,0.0,0.0,0.0,2.0,0.0,1.3,1.3,2.5,3.7,34.0,37.0,73.0,0.0,0.37,0.37,0.0,0.37,0.16,0.3,0.46,0.16,0.46,Matches,Manchester-City
+Mateo Kovačić,hr CRO,MF,30-179,9,8,699.0,7.8,3.0,0.0,3.0,3.0,0.0,0.0,3.0,0.0,0.9,0.9,0.3,1.2,27.0,45.0,9.0,0.39,0.0,0.39,0.39,0.39,0.11,0.04,0.15,0.11,0.15,Matches,Manchester-City
+Manuel Akanji,ch SUI,DF,29-105,8,8,691.0,7.7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.1,0.1,0.3,0.4,19.0,67.0,3.0,0.0,0.0,0.0,0.0,0.0,0.02,0.03,0.05,0.02,0.05,Matches,Manchester-City
+Rico Lewis,eng ENG,"MF,DF",19-346,8,8,664.0,7.4,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.7,0.7,0.2,0.9,19.0,36.0,38.0,0.0,0.27,0.27,0.0,0.27,0.1,0.03,0.13,0.1,0.13,Matches,Manchester-City
+Sávio,br BRA,"FW,MF",20-205,7,6,453.0,5.0,0.0,2.0,2.0,0.0,0.0,0.0,2.0,0.0,1.1,1.1,3.0,4.1,55.0,23.0,79.0,0.0,0.4,0.4,0.0,0.4,0.22,0.59,0.82,0.22,0.82,Matches,Manchester-City
+İlkay Gündoğan,de GER,MF,34-008,8,5,471.0,5.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.3,1.3,1.0,2.3,16.0,31.0,31.0,0.0,0.0,0.0,0.0,0.0,0.25,0.19,0.44,0.25,0.44,Matches,Manchester-City
+Jeremy Doku,be BEL,"FW,MF",22-158,7,5,401.0,4.5,1.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0.4,0.4,1.2,1.6,58.0,19.0,80.0,0.22,0.22,0.45,0.22,0.45,0.09,0.27,0.36,0.09,0.36,Matches,Manchester-City
+Kevin De Bruyne,be BEL,MF,33-126,4,4,356.0,4.0,1.0,1.0,2.0,1.0,0.0,0.0,1.0,0.0,1.2,1.2,1.7,2.9,10.0,47.0,32.0,0.25,0.25,0.51,0.25,0.51,0.31,0.43,0.74,0.31,0.74,Matches,Manchester-City
+Jack Grealish,eng ENG,"FW,MF",29-052,7,4,346.0,3.8,0.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.5,0.5,1.0,1.6,46.0,17.0,67.0,0.0,0.26,0.26,0.0,0.26,0.14,0.27,0.41,0.14,0.41,Matches,Manchester-City
+Kyle Walker,eng ENG,DF,34-157,5,3,289.0,3.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.3,0.4,6.0,25.0,1.0,0.0,0.0,0.0,0.0,0.0,0.04,0.09,0.14,0.04,0.14,Matches,Manchester-City
+Phil Foden,eng ENG,"MF,FW",24-157,6,2,282.0,3.1,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.4,0.4,1.5,1.9,6.0,11.0,29.0,0.0,0.32,0.32,0.0,0.32,0.14,0.46,0.6,0.14,0.6,Matches,Manchester-City
+John Stones,eng ENG,"DF,MF",30-157,6,2,241.0,2.7,2.0,0.0,2.0,2.0,0.0,0.0,1.0,0.0,0.4,0.4,0.0,0.4,8.0,10.0,1.0,0.75,0.0,0.75,0.75,0.75,0.16,0.0,0.16,0.16,0.16,Matches,Manchester-City
+Matheus Nunes,pt POR,"MF,FW",26-066,6,1,113.0,1.3,0.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,1.0,1.1,7.0,11.0,31.0,0.0,1.59,1.59,0.0,1.59,0.08,0.77,0.85,0.08,0.85,Matches,Manchester-City
+Rodri,es ESP,MF,28-132,2,1,65.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.06,0.06,0.0,0.06,Matches,Manchester-City
+Nathan Aké,nl NED,DF,29-257,1,0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Manchester-City
+James Mcatee,eng ENG,FW,22-014,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Manchester-City
+Scott Carson,eng ENG,GK,39-059,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Manchester-City
+Issa Kaboré,bf BFA,"DF,MF",23-173,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Manchester-City
+Stefan Ortega,de GER,GK,31-361,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Manchester-City
+Nico O’Reilly,eng ENG,FW,19-225,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Manchester-City
+Squad Total,,,27.4,9,99,810.0,9.0,20.0,14.0,34.0,19.0,1.0,1.0,19.0,0.0,18.3,17.5,15.6,33.2,356.0,541.0,536.0,2.22,1.56,3.78,2.11,3.67,2.04,1.73,3.77,1.95,3.68,,Manchester-City
+Opponent Total,,,26.9,9,99,810.0,9.0,8.0,6.0,14.0,7.0,1.0,1.0,26.0,1.0,8.7,8.0,7.1,15.1,114.0,184.0,184.0,0.89,0.67,1.56,0.78,1.44,0.97,0.79,1.76,0.88,1.68,,Manchester-City

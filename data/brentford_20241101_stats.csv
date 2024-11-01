@@ -1,0 +1,29 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Playing Time,Playing Time,Playing Time,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,Expected,Progression,Progression,Progression,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Unnamed: 33_level_0,Team
+Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,xG,npxG,xAG,npxG+xAG,PrgC,PrgP,PrgR,Gls,Ast,G+A,G-PK,G+A-PK,xG,xAG,xG+xAG,npxG,npxG+xAG,Matches,
+Nathan Collins,ie IRL,DF,23-185,9,9,810.0,9.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,1.8,1.8,0.2,1.9,10.0,35.0,5.0,0.11,0.0,0.11,0.11,0.11,0.2,0.02,0.22,0.2,0.22,Matches,Brentford
+Mark Flekken,nl NED,GK,31-141,9,9,810.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Brentford
+Ethan Pinnock,jm JAM,DF,31-156,9,9,810.0,9.0,2.0,0.0,2.0,2.0,0.0,0.0,1.0,0.0,0.8,0.8,0.5,1.3,1.0,18.0,4.0,0.22,0.0,0.22,0.22,0.22,0.09,0.05,0.14,0.09,0.14,Matches,Brentford
+Bryan Mbeumo,cm CMR,FW,25-086,9,9,809.0,9.0,8.0,0.0,8.0,6.0,2.0,2.0,2.0,0.0,3.8,2.2,2.0,4.2,31.0,34.0,84.0,0.89,0.0,0.89,0.67,0.67,0.42,0.22,0.65,0.25,0.47,Matches,Brentford
+Vitaly Janelt,de GER,MF,26-175,9,9,723.0,8.0,0.0,2.0,2.0,0.0,0.0,0.0,1.0,0.0,0.2,0.2,1.0,1.1,5.0,25.0,10.0,0.0,0.25,0.25,0.0,0.25,0.02,0.12,0.14,0.02,0.14,Matches,Brentford
+Kristoffer Ajer,no NOR,DF,26-198,8,8,636.0,7.1,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.3,0.3,0.2,0.5,14.0,25.0,12.0,0.0,0.0,0.0,0.0,0.0,0.04,0.03,0.07,0.04,0.07,Matches,Brentford
+Mikkel Damsgaard,dk DEN,"MF,FW",24-121,9,7,629.0,7.0,0.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.7,0.7,2.7,3.4,19.0,47.0,25.0,0.0,0.43,0.43,0.0,0.43,0.1,0.39,0.49,0.1,0.49,Matches,Brentford
+Keane Lewis-Potter,eng ENG,"FW,DF",23-253,9,7,603.0,6.7,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.8,0.8,0.7,1.5,16.0,19.0,36.0,0.0,0.15,0.15,0.0,0.15,0.12,0.11,0.23,0.12,0.23,Matches,Brentford
+Christian Nørgaard,dk DEN,MF,30-236,7,7,603.0,6.7,1.0,0.0,1.0,1.0,0.0,0.0,2.0,0.0,1.2,1.2,0.2,1.4,4.0,22.0,10.0,0.15,0.0,0.15,0.15,0.15,0.18,0.03,0.2,0.18,0.2,Matches,Brentford
+Sepp van den Berg,nl NED,DF,22-317,7,6,552.0,6.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.4,0.1,0.5,3.0,16.0,15.0,0.0,0.0,0.0,0.0,0.0,0.06,0.02,0.08,0.06,0.08,Matches,Brentford
+Kevin Schade,de GER,"FW,MF",22-340,9,5,461.0,5.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.2,1.2,0.1,1.3,13.0,4.0,33.0,0.0,0.0,0.0,0.0,0.0,0.23,0.03,0.26,0.23,0.26,Matches,Brentford
+Yoane Wissa,cd COD,FW,28-059,6,5,404.0,4.5,5.0,1.0,6.0,5.0,0.0,0.0,1.0,0.0,3.9,3.9,0.3,4.2,7.0,9.0,18.0,1.11,0.22,1.34,1.11,1.34,0.86,0.07,0.93,0.86,0.93,Matches,Brentford
+Mads Roerslev,dk DEN,DF,25-130,8,3,358.0,4.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.2,1.3,6.0,22.0,27.0,0.0,0.25,0.25,0.0,0.25,0.0,0.31,0.31,0.0,0.31,Matches,Brentford
+Mathias Jensen,dk DEN,MF,28-305,4,3,251.0,2.8,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.1,0.1,0.8,0.9,4.0,21.0,11.0,0.0,0.36,0.36,0.0,0.36,0.04,0.27,0.31,0.04,0.31,Matches,Brentford
+Fabio Carvalho,pt POR,"FW,MF",22-063,9,2,271.0,3.0,1.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,1.1,1.1,0.5,1.7,5.0,7.0,12.0,0.33,0.33,0.66,0.33,0.66,0.38,0.18,0.56,0.38,0.56,Matches,Brentford
+Yehor Yarmoliuk,ua UKR,MF,20-245,5,1,131.0,1.5,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.1,0.1,0.0,0.1,1.0,5.0,4.0,0.0,0.0,0.0,0.0,0.0,0.06,0.02,0.08,0.06,0.08,Matches,Brentford
+Frank Onyeka,ng NGA,MF,26-305,2,0,25.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Brentford
+Yunus Emre Konak,tr TUR,"MF,FW",18-296,3,0,19.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.0,0.2,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.72,0.0,0.72,0.72,0.72,Matches,Brentford
+Ryan Trevitt,eng ENG,MF,21-234,1,0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Brentford
+Ben Mee,eng ENG,DF,35-041,1,0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Brentford
+Kim Jisoo,kr KOR,DF,19-313,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Brentford
+Jayden Meghoma,eng ENG,DF,18-126,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Brentford
+Myles Peart-Harris,eng ENG,MF,22-044,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Brentford
+Hákon Rafn Valdimarsson,is ISL,GK,23-019,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Brentford
+Tony Yogane,eng ENG,MF,19-038,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Brentford
+Squad Total,,,26.4,9,99,810.0,9.0,18.0,10.0,28.0,16.0,2.0,2.0,14.0,0.0,16.1,14.5,10.5,25.0,139.0,311.0,308.0,2.0,1.11,3.11,1.78,2.89,1.79,1.17,2.96,1.61,2.78,,Brentford
+Opponent Total,,,27.3,9,99,810.0,9.0,17.0,15.0,32.0,17.0,0.0,0.0,25.0,1.0,15.4,15.4,12.2,27.6,192.0,393.0,388.0,1.89,1.67,3.56,1.89,3.56,1.71,1.35,3.06,1.71,3.06,,Brentford

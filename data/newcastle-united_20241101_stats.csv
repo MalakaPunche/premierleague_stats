@@ -1,0 +1,29 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Playing Time,Playing Time,Playing Time,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Expected,Expected,Expected,Expected,Progression,Progression,Progression,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Per 90 Minutes,Unnamed: 33_level_0,Team
+Player,Nation,Pos,Age,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,xG,npxG,xAG,npxG+xAG,PrgC,PrgP,PrgR,Gls,Ast,G+A,G-PK,G+A-PK,xG,xAG,xG+xAG,npxG,npxG+xAG,Matches,
+Dan Burn,eng ENG,DF,32-176,9,9,810.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.4,0.4,0.1,0.6,0.0,14.0,3.0,0.0,0.0,0.0,0.0,0.0,0.05,0.01,0.06,0.05,0.06,Matches,Newcastle-United
+Nick Pope,eng ENG,GK,32-196,9,9,810.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Newcastle-United
+Bruno Guimarães,br BRA,MF,26-351,9,9,800.0,8.9,0.0,1.0,1.0,0.0,0.0,0.0,2.0,0.0,0.5,0.5,0.8,1.3,13.0,60.0,10.0,0.0,0.11,0.11,0.0,0.11,0.06,0.09,0.15,0.06,0.15,Matches,Newcastle-United
+Joelinton,br BRA,MF,28-079,9,9,746.0,8.3,1.0,0.0,1.0,1.0,0.0,0.0,4.0,0.0,1.7,1.7,0.7,2.4,12.0,39.0,35.0,0.12,0.0,0.12,0.12,0.12,0.21,0.08,0.29,0.21,0.29,Matches,Newcastle-United
+Anthony Gordon,eng ENG,FW,23-251,8,8,682.0,7.6,2.0,0.0,2.0,1.0,1.0,2.0,0.0,0.0,3.3,1.7,1.5,3.2,28.0,9.0,62.0,0.26,0.0,0.26,0.13,0.13,0.44,0.2,0.63,0.23,0.42,Matches,Newcastle-United
+Alexander Isak,se SWE,FW,25-041,7,7,585.0,6.5,2.0,1.0,3.0,2.0,0.0,0.0,0.0,0.0,3.5,3.5,0.9,4.4,15.0,9.0,38.0,0.31,0.15,0.46,0.31,0.46,0.54,0.14,0.68,0.54,0.68,Matches,Newcastle-United
+Fabian Schär,ch SUI,DF,32-317,7,7,567.0,6.3,1.0,0.0,1.0,1.0,0.0,0.0,3.0,1.0,0.7,0.7,0.2,0.9,3.0,29.0,6.0,0.16,0.0,0.16,0.16,0.16,0.12,0.03,0.15,0.12,0.15,Matches,Newcastle-United
+Lewis Hall,eng ENG,DF,20-054,9,6,606.0,6.7,0.0,1.0,1.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,1.8,1.8,13.0,40.0,18.0,0.0,0.15,0.15,0.0,0.15,0.0,0.27,0.27,0.0,0.27,Matches,Newcastle-United
+Valentino Livramento,eng ENG,DF,21-355,9,6,530.0,5.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,11.0,21.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.03,0.03,0.0,0.03,Matches,Newcastle-United
+Jacob Murphy,eng ENG,FW,29-251,9,6,496.0,5.5,0.0,2.0,2.0,0.0,0.0,0.0,1.0,0.0,0.3,0.3,1.4,1.7,15.0,27.0,42.0,0.0,0.36,0.36,0.0,0.36,0.06,0.25,0.31,0.06,0.31,Matches,Newcastle-United
+Harvey Barnes,eng ENG,FW,26-328,9,5,478.0,5.3,3.0,1.0,4.0,3.0,0.0,0.0,0.0,0.0,2.0,2.0,1.9,4.0,22.0,26.0,49.0,0.56,0.19,0.75,0.56,0.75,0.38,0.37,0.75,0.38,0.75,Matches,Newcastle-United
+Sandro Tonali,it ITA,MF,24-177,7,4,362.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.7,0.7,0.2,0.9,1.0,13.0,10.0,0.0,0.0,0.0,0.0,0.0,0.18,0.05,0.23,0.18,0.23,Matches,Newcastle-United
+Sean Longstaff,eng ENG,MF,27-002,8,4,334.0,3.7,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.2,0.2,0.0,0.2,1.0,15.0,8.0,0.0,0.0,0.0,0.0,0.0,0.06,0.01,0.06,0.06,0.06,Matches,Newcastle-United
+Kieran Trippier,eng ENG,DF,34-043,5,3,280.0,3.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,5.0,19.0,12.0,0.0,0.0,0.0,0.0,0.0,0.01,0.06,0.07,0.01,0.07,Matches,Newcastle-United
+Lloyd Kelly,eng ENG,DF,26-026,6,3,207.0,2.3,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.2,0.2,0.5,0.6,0.0,6.0,2.0,0.0,0.43,0.43,0.0,0.43,0.08,0.2,0.28,0.08,0.28,Matches,Newcastle-United
+Emil Krafth,se SWE,DF,30-091,3,2,241.0,2.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.01,0.03,0.05,0.01,0.05,Matches,Newcastle-United
+Joe Willock,eng ENG,"MF,FW",25-073,7,1,197.0,2.2,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.2,0.2,0.8,1.0,10.0,11.0,20.0,0.0,0.46,0.46,0.0,0.46,0.08,0.38,0.45,0.08,0.45,Matches,Newcastle-United
+Miguel Almirón,py PAR,FW,30-265,5,1,105.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.4,0.2,0.5,1.0,5.0,10.0,0.0,0.0,0.0,0.0,0.0,0.31,0.15,0.46,0.31,0.46,Matches,Newcastle-United
+William Osula,dk DEN,"FW,MF",21-089,3,0,11.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Matches,Newcastle-United
+Martin Dúbravka,sk SVK,GK,35-291,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Newcastle-United
+Lewis Miley,eng ENG,MF,18-184,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Newcastle-United
+Alex Murphy,ie IRL,DF,20-129,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Newcastle-United
+John Ruddy,eng ENG,GK,38-008,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Newcastle-United
+Matt Targett,eng ENG,"DF,MF",29-044,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Newcastle-United
+Odisseas Vlachodimos,gr GRE,GK,30-189,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,Matches,Newcastle-United
+Squad Total,,,27.7,9,99,810.0,9.0,9.0,8.0,17.0,8.0,1.0,2.0,22.0,1.0,14.1,12.6,11.3,23.9,151.0,344.0,344.0,1.0,0.89,1.89,0.89,1.78,1.57,1.26,2.83,1.4,2.65,,Newcastle-United
+Opponent Total,,,26.7,9,99,810.0,9.0,9.0,9.0,18.0,9.0,0.0,0.0,32.0,0.0,13.0,13.0,10.5,23.5,187.0,319.0,315.0,1.0,1.0,2.0,1.0,2.0,1.45,1.17,2.61,1.45,2.61,,Newcastle-United
