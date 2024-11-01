@@ -91,7 +91,6 @@ data/
 - Maintains a 5-second delay between requests
 - Requires stable internet connection
 - Chrome WebDriver auto-managed by webdriver_manager
-- Respects website's robots.txt guidelines
 
 ## 🤝 Contributing
 
