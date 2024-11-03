@@ -27,8 +27,8 @@ A Python script that scrapes Premier League team statistics from fbref.com, prov
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/pl-stats-scraper.git
-   cd pl-stats-scraper
+   git clone https://github.com/MalakaPunche/premierleague_stats.git
+   cd premierleague_stats
    ```
 
 2. Install dependencies:
